@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: typescript",
+      "code": "ENOENT",
+      "stack": "Error: not found: typescript\n    at getNotFoundError (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:48497:51)\n    at Function.whichSync [as sync] (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:48574:13)\n    at getCommandAbsolutePathSync (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:50139:44)\n    at default_1 (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:50148:32)\n    at C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:129799:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "C:\\Users\\DMImagozhev\\Desktop\\javascript\\mindmap_editor",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: typescript",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: typescript\n    at getNotFoundError (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:48497:51)\n    at Function.whichSync [as sync] (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:48574:13)\n    at getCommandAbsolutePathSync (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:50139:44)\n    at default_1 (C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:50148:32)\n    at C:\\Users\\DMImagozhev\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:129799:39"
+    }
+  }
+}

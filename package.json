@@ -1,0 +1,12 @@
+{
+  "name": "mindmap_editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Deni Imagozhev <dmimagozhev@sber-crr.ru>",
+  "license": "ISC"
+}
